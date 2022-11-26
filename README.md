@@ -3,7 +3,7 @@
 This is a repository to provide an open source platform for resources useful to new students of the University of Michigan Ann Arbor
 It has been kickstarted by the ENTR 550 project under the guidance of Dr. Fretz, and will hopefull continue to grow over time.
 
-# YouTube channel containing the videos: 
+# YouTube channel containing the videos: https://www.youtube.com/channel/UCP7oFZU0yY7bxJ-rEU-wZ5Q
 
 Topics include:
 -Northwood Room Tour Video
