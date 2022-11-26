@@ -20,6 +20,6 @@ Topics include:
 -Parc Pointe Apartment Room Tour Video\
 -Ann Arbor farmer's market and Kerry town\
 -Football game \
--Things to know before taking ROB 550 \
+-Things to know before taking ROB 550 
 
 Besides the videos, other resources can be provided here in the future.
